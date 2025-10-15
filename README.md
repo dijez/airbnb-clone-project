@@ -90,3 +90,27 @@ The table below outlines the main roles involved in the Airbnb Clone project, th
 | **Product Owner** | - Define project requirements and prioritize features.<br>- Represent stakeholders and approve deliverables.<br>- Ensure alignment with business goals. | Keep the product vision aligned with user and business needs. |
 | **Scrum Master** | - Facilitate agile ceremonies and sprint planning.<br>- Remove blockers and improve team workflow.<br>- Encourage communication and iteration. | Maintain team efficiency and adherence to agile best practices. |
 
+
+
+# UI Component Patterns
+
+
+## Planned Components
+
+### Navbar
+Logo
+Search bar
+User navigation
+Responsive menu
+
+### Property Card
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+
+### Footer
+Site links
+Company information
+Social media links
+Copyright information
