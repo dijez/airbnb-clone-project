@@ -52,11 +52,11 @@ Enhance satisfaction, encouraging repeat visits and recommendations.
 Build credibility, since a smooth interface reflects a reliable service.
 
 ### Color Styles:
-Primary: #FF5A5F
-Secondary: #008489
-Background: #FFFFFF
-Text: #222222
-Secondary Text: #717171
+ - Primary: #FF5A5F
+ - Secondary: #008489
+ - Background: #FFFFFF
+ - Text: #222222
+ - Secondary Text: #717171
 
 
 ### Typography:
