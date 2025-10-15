@@ -50,3 +50,25 @@ Increase conversion rates, as users trust a clean, professional interface.
 Enhance satisfaction, encouraging repeat visits and recommendations.
 
 Build credibility, since a smooth interface reflects a reliable service.
+
+### Color Styles:
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+
+### Typography:
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+### Importance of Identifying Design Properties
+Identifying design properties such as color styles and typography in Figma is essential because it:
+
+- Ensures consistency
+- Improves collaboration
+- Speeds up development
+- Maintains branding
+- Enhances accessibility
