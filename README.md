@@ -82,12 +82,19 @@ The table below outlines the main roles involved in the Airbnb Clone project, th
 | **Role** | **Key Responsibilities** | **Contribution to Project Success** |
 |-----------|---------------------------|------------------------------------|
 | **Project Manager** | - Oversees the project timeline and deliverables.<br>- Coordinates between team members.<br>- Ensures goals align with stakeholder expectations. | Maintains organization, communication, and timely delivery of all project milestones. |
+
 | **Frontend Developers** | - Build responsive UI components using HTML, CSS, and JavaScript (React).<br>- Ensure accessibility and cross-device compatibility.<br>- Integrate frontend with backend APIs. | Deliver the interactive, user-facing parts of the platform that define user experience. |
+
 | **Backend Developers** | - Develop RESTful APIs and manage database models.<br>- Implement authentication and booking logic.<br>- Optimize server performance and security. | Ensure reliable data handling, security, and backend performance. |
+
 | **Designers** | - Create mockups and wireframes in Figma.<br>- Define color styles, typography, and layout.<br>- Maintain design consistency across all pages. | Shape the visual identity and usability of the entire application. |
+
 | **QA/Testers** | - Write and execute test cases.<br>- Perform unit, integration, and user acceptance testing.<br>- Identify and verify bug fixes. | Guarantee a stable, error-free, and high-quality product before deployment. |
+
 | **DevOps Engineers** | - Manage CI/CD pipelines and server infrastructure.<br>- Automate deployment and backups.<br>- Monitor app performance and scalability. | Ensure smooth, automated deployment and continuous system reliability. |
+
 | **Product Owner** | - Define project requirements and prioritize features.<br>- Represent stakeholders and approve deliverables.<br>- Ensure alignment with business goals. | Keep the product vision aligned with user and business needs. |
+
 | **Scrum Master** | - Facilitate agile ceremonies and sprint planning.<br>- Remove blockers and improve team workflow.<br>- Encourage communication and iteration. | Maintain team efficiency and adherence to agile best practices. |
 
 
