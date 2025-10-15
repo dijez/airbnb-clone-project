@@ -1,16 +1,16 @@
-# airbnb-clone-project.
+# Airbnb-clone-project.
  full-stack clone of the popular accommodation booking platform AirBnB. 
 
-## project description 
+## Project Description 
 This project is a full-stack clone of an AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. 
 
-## technologies that would be used 
+## Technologies That Would be Used 
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
 
 
-## the goal and key features of this system 
+## The Goal and Key Features of This System 
 the goal of this system is to develop a simple website that is responsive to mobiles where users can see differnt available airbnb and have a smooth booking process.
 
 # UI/UX Design Planning 
@@ -28,15 +28,12 @@ Secure checkout process
 User authentication
 
 
-## primary pages 
-Page	                       Description
-Property Listing View	       Displays a grid of available properties. Includes filters (location, price, rating) and quick preview options.
-
-Listing Detailed View	        Shows detailed property information such as images, host info, reviews, amenities, and a booking button.
-
-
-Simple Checkout View	        Provides a simplified booking form for payment and confirmation. Displays summary of booking details and total price.
-
+## Primary ages 
+| Page | Description |
+|------|--------------|
+| **Property Listing View** | Displays a grid of available properties with filters for location, price, and rating. |
+| **Listing Detailed View** | Shows full property details, images, reviews, and booking form. |
+| **Simple Checkout View** | Simplified booking form with payment and confirmation summary. |
 
 ## User-friendly Design 
 
