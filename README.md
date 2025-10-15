@@ -11,6 +11,9 @@ Design Tools: Figma for UI/UX design
 
 
 # the goal and key features of this system 
+the goal of this system is to develop a simple website that is responsive to mobiles where users can see differnt available airbnb and have a smooth booking process.
+
+# UI/UX design planning 
 
 # Design Goals
 Create intuitive booking flow
@@ -23,3 +26,27 @@ Property search and filtering
 Detailed property viewing
 Secure checkout process
 User authentication
+
+
+# primary pages 
+Page	                       Description
+Property Listing View	       Displays a grid of available properties. Includes filters (location, price, rating) and quick preview options.
+
+Listing Detailed View	        Shows detailed property information such as images, host info, reviews, amenities, and a booking button.
+
+
+Simple Checkout View	        Provides a simplified booking form for payment and confirmation. Displays summary of booking details and total price.
+
+
+# userfriendly design 
+
+A user-friendly design ensures that users can find and book properties easily without confusion or frustration.
+It helps:
+
+Reduce friction in the booking process, making users more likely to complete their reservation.
+
+Increase conversion rates, as users trust a clean, professional interface.
+
+Enhance satisfaction, encouraging repeat visits and recommendations.
+
+Build credibility, since a smooth interface reflects a reliable service.
