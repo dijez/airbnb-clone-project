@@ -13,7 +13,7 @@ Design Tools: Figma for UI/UX design
 # the goal and key features of this system 
 the goal of this system is to develop a simple website that is responsive to mobiles where users can see differnt available airbnb and have a smooth booking process.
 
-# UI/UX design planning 
+# UUI/UX Design Plannin 
 
 # Design Goals
 Create intuitive booking flow
