@@ -5,27 +5,27 @@
 This project is a full-stack clone of an AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. 
 
 ## Technologies That Would be Used 
-Frontend: HTML, CSS, JavaScript (React or similar framework)
-Version Control: Git and GitHub
-Design Tools: Figma for UI/UX design
+ - Frontend: HTML, CSS, JavaScript (React or similar framework)
+ - Version Control: Git and GitHub
+ - Design Tools: Figma for UI/UX design
 
 
 ## The Goal and Key Features of This System 
-the goal of this system is to develop a simple website that is responsive to mobiles where users can see differnt available airbnb and have a smooth booking process.
+The goal of this system is to develop a simple website that is responsive to mobiles where users can see differnt available airbnb and have a smooth booking process.
 
 # UI/UX Design Planning 
 
 ## Design Goals
-Create intuitive booking flow
-Maintain visual consistency
-Ensure fast loading times
-Prioritize mobile responsiveness
+ - Create intuitive booking flow
+ - Maintain visual consistency
+ - Ensure fast loading times
+ - Prioritize mobile responsiveness
 
 ## Key Features
-Property search and filtering
-Detailed property viewing
-Secure checkout process
-User authentication
+ - Property search and filtering
+ - Detailed property viewing
+ - Secure checkout process
+ - User authentication
 
 
 ## Primary ages 
@@ -95,19 +95,19 @@ The table below outlines the main roles involved in the Airbnb Clone project, th
 ## Planned Components
 
 ### Navbar
-Logo
-Search bar
-User navigation
-Responsive menu
+ - Logo
+ - Search bar
+ - User navigation
+ - Responsive menu
 
 ### Property Card
-Property image
-Basic details (price, location, rating)
-Favorite button
-Responsive layout
+ - Property image
+ - Basic details (price, location, rating)
+ - Favorite button
+ - Responsive layout
 
 ### Footer
-Site links
-Company information
-Social media links
-Copyright information
+ - Site links
+ - Company information
+ - Social media links
+ - Copyright information
